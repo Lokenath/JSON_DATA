@@ -5,16 +5,16 @@
         "pageSize": 6,
         "temperatureColor": [
             {
-                range: [-10, 20],
-                color: "green"
+                "range": [-10, 20],
+                "color": "green"
             },
             {
-                range: [21, 35],
+                "range": [21, 35],
                 color: "blue"
             },
             {
-                range: [36, 55],
-                color: "red"
+                "range": [36, 55],
+                "color": "red"
             },
         ]
     },
