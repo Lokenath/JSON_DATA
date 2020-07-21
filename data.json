@@ -1,7 +1,22 @@
 {
     "metadata": {
         "weatherType": ["Sunny", "Cloudy", "Snowy"],
-        "unit": "Celsius"
+        "unit": "Celsius",
+        "pageSize": 6,
+        "temperatureColor": [
+            {
+                range: [-10, 20],
+                color: "green"
+            },
+            {
+                range: [21, 35],
+                color: "blue"
+            },
+            {
+                range: [36, 55],
+                color: "red"
+            },
+        ]
     },
     "cities": [
         {
