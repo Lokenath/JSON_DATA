@@ -22,76 +22,102 @@
 		]
 	},
 	"cities": [{
+			"id": 0,
 			"name": "Mumbai",
 			"temperature": 35,
 			"type": "Sunny",
 			"description": "Hot and humid."
 		},
 		{
+			"id": 1,
 			"name": "Delhi",
 			"temperature": 42,
 			"type": "Sunny",
 			"description": "Very sunny with chances of rain in the evening."
 		},
 		{
+			"id": 2,
 			"name": "Bangalore",
 			"temperature": 28,
 			"type": "Cloudy",
 			"description": "Warm with rain."
 		},
 		{
+			"id": 3,
 			"name": "Hyderabad",
 			"temperature": 35,
 			"type": "Sunny",
 			"description": "Hot and humid"
 		},
 		{
+			"id": 5,
 			"name": "Ahmedabad",
 			"temperature": 32,
 			"type": "Cloudy",
 			"description": "Hot with occational rain"
 		},
 		{
+			"id": 6,
 			"name": "Chennai",
 			"temperature": 41,
 			"type": "Sunny",
 			"description": "Extremly hot and humid"
 		},
 		{
+			"id": 7,
 			"name": "Kolkata",
 			"temperature": 38,
 			"type": "Sunny",
 			"description": "Possibility of thunderstorm in the evening"
 		},
 		{
+			"id": 8,
 			"name": "Surat",
 			"temperature": 29,
 			"type": "Cloudy",
 			"description": "Hot and humid"
 		},
 		{
+			"id": 9,
 			"name": "Pune",
 			"temperature": 27,
 			"type": "Cloudy",
 			"description": "Pleasant weather with cool breeze"
 		},
 		{
+			"id": 10,
 			"name": "Jaipur",
 			"temperature": 35,
 			"type": "Sunny",
 			"description": "Hot and humid"
 		},
 		{
+			"id": 11,
 			"name": "Srinagar",
 			"temperature": -5,
 			"type": "Snowy",
 			"description": "Cold and possibility of snow at night"
 		},
 		{
+			"id": 12,
 			"name": "Manali",
 			"temperature": 1,
 			"type": "Snowy",
 			"description": "Cold with rain"
+		},
+		{
+			"id": 13,
+			"name": "Goa",
+			"temperature": 28,
+			"type": "Sunny",
+			"description": "Hot and sunny"
+		},
+		{
+			"id": 14,
+			"name": "Kanpur",
+			"temperature": 36,
+			"type": "Sunny",
+			"description": "Hot and sunny"
 		}
 	]
 }
